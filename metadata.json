@@ -1,0 +1,6 @@
+{
+  "name": "Song Collection",
+  "description": "A polished music collection app with search, filtering, and an integrated audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
